@@ -1,0 +1,19 @@
+{
+  "name": "spu.documentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"todo\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shared-processing-unit/spu.documentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shared-processing-unit/spu.documentation/issues"
+  },
+  "homepage": "https://github.com/shared-processing-unit/spu.documentation#readme"
+}
