@@ -1,19 +1,9 @@
 {
-  "name": "spu.documentation",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"todo\" && exit 0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shared-processing-unit/spu.documentation.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shared-processing-unit/spu.documentation/issues"
-  },
-  "homepage": "https://github.com/shared-processing-unit/spu.documentation#readme"
+  "name": "@shared-processing-unit/prettier-config",
+  "version": "1.0.2",
+  "main": "index.json",
+  "description": "prettier-config",
+  "repository": "git@github.com:shared-processing-unit/spu.documentation.git",
+  "author": "Dijan Helbling, Roman Kramer",
+  "license": "AGPL-3.0-only"
 }
