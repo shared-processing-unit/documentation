@@ -1,6 +1,6 @@
 {
   "name": "@shared-processing-unit/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.json",
   "description": "prettier-config",
   "repository": "git@github.com:shared-processing-unit/spu.documentation.git",
